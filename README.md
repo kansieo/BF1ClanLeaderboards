@@ -4,6 +4,11 @@ Quick, Dirty Battlefield 1 Statistics.  In PHP/Bootstrap with a bit of JQuery on
 Pulls data from the Battlefieldtracker.com API.  Displays leaderboards in a sortable Google Charts Table format.
 
 # Setup
+
+### cache subdirectory
+
+Needs to be writable, so, you know, we can write stuff to it.
+
 ### peeps.txt:
 
 Put your clan roster into 'peeps.txt' names separated by '|'.

@@ -1,5 +1,5 @@
 # BF1ClanLeaderboards
-Quick, Dirty Battlefield 1 Statistics.  In PHP/Bootstrap with a bit of JQuery on the side.
+Quick, Dirty Battlefield 1 Statistics.  In PHP/Bootstrap with a bit of JQuery on the side.  No DB needed.
 
 Pulls data from the Battlefieldtracker.com API.  Displays leaderboards in a sortable Google Charts Table format.
 
